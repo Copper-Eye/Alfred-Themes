@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 10,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "JetBrains Mono",
+        "color" : "#888888FF"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "JetBrains Mono",
+        "color" : "#E12726FF"
+      },
+      "backgroundSelected" : "#E12726FF",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "JetBrains Mono",
+        "color" : "#EAEAEAFF"
+      },
+      "iconPaddingHorizontal" : 8,
+      "roundness" : 0,
+      "paddingVertical" : 4,
+      "iconSize" : 32
+    },
+    "search" : {
+      "backgroundSelected" : "#E12726FF",
+      "paddingHorizontal" : 10,
+      "spacing" : 12,
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Orbitron",
+        "color" : "#FFFFFFFF"
+      },
+      "background" : "#FFFFFF00",
+      "roundness" : 0,
+      "paddingVertical" : 8
+    },
+    "window" : {
+      "color" : "#1F1F1FFF",
+      "paddingHorizontal" : 10,
+      "width" : 520,
+      "borderPadding" : 0,
+      "borderColor" : "#333333FF",
+      "blur" : 0,
+      "roundness" : 0,
+      "paddingVertical" : 10
+    },
+    "credit" : "Dominic Robson-Tull",
+    "separator" : {
+      "color" : "#333333FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#E12726FF",
+      "thickness" : 4
+    },
+    "name" : "RocketLab - Dark"
+  }
+}
