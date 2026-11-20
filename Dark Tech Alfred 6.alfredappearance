@@ -1,0 +1,67 @@
+{
+  "alfredtheme" : {
+    "search" : {
+      "backgroundSelected" : "#BF606AFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 0,
+      "text" : {
+        "size" : 27,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Gill Sans",
+        "color" : "#ECEFF4FF"
+      },
+      "background" : "#1C212A00",
+      "roundness" : 8,
+      "paddingVertical" : 12
+    },
+    "window" : {
+      "color" : "#1C212AAB",
+      "paddingHorizontal" : 2,
+      "width" : 589,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 16,
+      "paddingVertical" : 0
+    },
+    "credit" : "Dom Robson-Tull",
+    "blurMode" : 0,
+    "visualEffectMode" : 2,
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#D7DEE9FF",
+        "font" : "Courier",
+        "color" : "#D7DEE9FF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Andale Mono",
+        "color" : "#FFFFFF7F"
+      },
+      "backgroundSelected" : "#BF606AC6",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#ECEFF4FF",
+        "font" : "Andale Mono",
+        "color" : "#ECEFF4FF"
+      },
+      "iconPaddingHorizontal" : 15,
+      "roundness" : 18,
+      "paddingVertical" : 6,
+      "iconSize" : 38
+    },
+    "appearanceMode" : 2,
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#87C0D0FF",
+      "thickness" : 6
+    },
+    "name" : "Dark Tech Alfred 6"
+  }
+}
